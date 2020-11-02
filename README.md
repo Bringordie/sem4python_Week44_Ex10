@@ -36,7 +36,7 @@
 	3. France
 	4. Italy
 	5. Portugal
-	6. EU
+	6. European Union
 
 5. From 3.2. Find the price of below items from 1995-2020 (2020-06) for the countries in assignment 4.
 	1. Strawberries
