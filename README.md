@@ -30,7 +30,7 @@
 	1. GDP (current US$) - European Union: http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv
 	2. EU prices for selected representative products: https://ec.europa.eu/info/sites/info/files/market-prices-fruit-products_en_6.csv
 
-4. From 3.1. Find the GDP from 1995-2020 for:
+4. From 3.1. Find the GDP from 1995-2019 for:
 	1. Greece
 	2. Spain
 	3. France
