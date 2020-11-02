@@ -24,7 +24,7 @@
 2. All of the owners suddenly found out that they need to buy 3 times as many rottweilers and 10 times as many for bulldogs than previous expected.
 	1. Multiply so that there are 3 times as many rottweilers and 10 times as many bulldogs
 	2. Again let's see what course of action is best for each person and how much it would cost now.
-	3. How much will each of the persons have saved by not used the most expensive action?
+	3. What is the difference between the highest and the lowest price that each person could have choosen.
 
 3. Download below data
 	1. GDP (current US$) - European Union: http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv
