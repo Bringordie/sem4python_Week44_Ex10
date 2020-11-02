@@ -22,7 +22,7 @@
 |traveling_expense|2600|2700|9000|5000|
 
 2. All of the owners suddenly found out that they need to buy 3 times as many rottweilers and 10 times as many for bulldogs than previous expected.
-	1. Use Matrix multiplication to change the table data.
+	1. Multiply so that there are 3 times as many rottweilers and 10 times as many bulldogs
 	2. Again let's see what course of action is best for each person and how much it would cost now.
 	3. How much will each of the persons have saved by not used the most expensive action?
 
